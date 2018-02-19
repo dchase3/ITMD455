@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/holo_orange_light"
+    android:theme="@style/Theme.AppCompat.NoActionBar"
+    tools:context="com.example.densi.itmd455hw3.MainActivity">
+
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="16dp"
+        android:layout_centerHorizontal="true"
+        android:textColor="#000000"
+        android:text="Temperature Convertor" />
+
+    <SeekBar
+        android:id="@+id/seekBar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView2"
+        android:layout_toEndOf="@id/textView3"
+        android:layout_toStartOf="@id/textView4"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/textView2"
+        android:layout_marginLeft="16dp"
+        android:textColor="#000000"
+        android:text="0F" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_below="@+id/textView2"
+        android:layout_marginRight="16dp"
+        android:textColor="#000000"
+        android:text="200F" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/textView3"
+        android:layout_below="@+id/textView3"
+        android:layout_marginTop="16dp"
+        android:textColor="#000000"
+        android:text="Fahrenheit:" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/textView5"
+        android:layout_below="@+id/textView5"
+        android:layout_marginTop="16dp"
+        android:textColor="#000000"
+        android:text="Celsius:" />
+
+    <TextView
+        android:id="@+id/fahTemp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/textView4"
+        android:layout_alignTop="@+id/textView5"
+        android:textColor="#000000"
+        android:text="" />
+
+    <TextView
+        android:id="@+id/celTemp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/fahTemp"
+        android:layout_alignTop="@+id/textView6"
+        android:textColor="#000000"
+        android:text="" />
+
+    <TextView
+        android:id="@+id/tooCold"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView6"
+        android:layout_margin="16dp"
+        android:gravity="center"
+        android:textColor="#000000"
+        android:background="#0011ff"
+        android:visibility="invisible"
+        android:text="Too Cold!" />
+
+    <TextView
+        android:id="@+id/tooHot"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView6"
+        android:layout_margin="16dp"
+        android:gravity="center"
+        android:textColor="#000000"
+        android:background="#ff0000"
+        android:visibility="invisible"
+        android:text="Too Hot!" />
+
+    <TextView
+        android:id="@+id/justRight"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView6"
+        android:layout_margin="16dp"
+        android:gravity="center"
+        android:textColor="#000000"
+        android:background="#04ff00"
+        android:visibility="invisible"
+        android:text="Just Right!" />
+
+    <ImageView
+        android:id="@+id/imageCold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/tooCold"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:visibility="invisible"
+        android:src="@drawable/cold3" />
+
+
+
+    <ImageView
+        android:id="@+id/imageHot"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/tooCold"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:visibility="invisible"
+        android:src="@drawable/hot" />
+
+
+    <ImageView
+        android:id="@+id/imageRight"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/tooCold"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:visibility="invisible"
+        android:src="@drawable/justright" />
+
+</RelativeLayout>
