@@ -17,12 +17,12 @@ This repository has a quick access to all files that were actually used to make 
 <!-- /TOC -->
 
 ## Screenshots
-![Screenshot1](/screenshots/capture1.png)
-![Screenshot2](/screenshots/capture2.png)
-![Screenshot3](/screenshots/capture3.png)
-![Screenshot4](/screenshots/capture4.png)
-![Screenshot5](/screenshots/capture5.png)
-![Screenshot6](/screenshots/capture6.png)
+![Screenshot1](ITMD455/Lab5/Grading_Files/screenshots/Capture1.PNG)
+![Screenshot2](/screenshots/Capture2.png)
+![Screenshot3](/screenshots/Capture3.png)
+![Screenshot4](/screenshots/Capture4.png)
+![Screenshot5](/screenshots/Capture5.png)
+![Screenshot6](/screenshots/Capture6.png)
 
 ## Java Code
 
