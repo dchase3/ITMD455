@@ -21,8 +21,8 @@ This repository has a quick access to all files that were actually used to make 
 ![Screenshot2](/lab5/grading_files/screenshots/capture2.png)
 ![Screenshot3](itmd455/lab5/grading_files/screenshots/capture3.png)
 ![Screenshot4](Lab5/Grading_Files/screenshots/Capture4.png)
-![Screenshot5](/Lab5/Grading_Files/screenshots/Capture5.png)
-![Screenshot6](ITMD455/Lab5/Grading_Files/screenshots/Capture6.png)
+![Screenshot5](Grading_Files/screenshots/Capture5.png)
+![Screenshot6](/screenshots/Capture6.png)
 
 ## Java Code
 
