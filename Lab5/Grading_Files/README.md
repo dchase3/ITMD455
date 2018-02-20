@@ -18,13 +18,16 @@ This repository has a quick access to all files that were actually used to make 
 
 ## Screenshots
 ![Screenshot1](ITMD455/Lab5/Grading_Files/screenshots/Capture1.PNG)
-![Screenshot2](ITMD455/Lab5/Grading_Files/screenshots/Capture2.PNG)
-![Screenshot3](ITMD455/Lab5/Grading_Files/screenshots/Capture3.PNG)
-![Screenshot4](ITMD455/Lab5/Grading_Files/screenshots/Capture4.PNG)
-![Screenshot5](ITMD455/Lab5/Grading_Files/screenshots/Capture5.PNG)
-![Screenshot6](ITMD455/Lab5/Grading_Files/screenshots/Capture6.PNG)
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Screenshot2](ITMD455/Lab5/Grading_Files/screenshots/Capture2.PNG)
+
+![Screenshot3](ITMD455/Lab5/Grading_Files/screenshots/Capture3.PNG)
+
+![Screenshot4](ITMD455/Lab5/Grading_Files/screenshots/Capture4.PNG)
+
+![Screenshot5](ITMD455/Lab5/Grading_Files/screenshots/Capture5.PNG)
+
+![Screenshot6](ITMD455/Lab5/Grading_Files/screenshots/Capture6.PNG)
 
 ## Java Code
 
