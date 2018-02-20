@@ -19,15 +19,15 @@ This repository has a quick access to all files that were actually used to make 
 ## Screenshots
 ![Screenshot1](https://github.com/dchase3/ITMD455/blob/master/Lab5/Grading_Files/screenshots/Capture1.PNG)
 
-![Screenshot2](ITMD455/Lab5/Grading_Files/screenshots/Capture2.PNG)
+![Screenshot2](https://github.com/dchase3/ITMD455/blob/master/Lab5/Grading_Files/screenshots/Capture2.PNG)
 
-![Screenshot3](ITMD455/Lab5/Grading_Files/screenshots/Capture3.PNG)
+![Screenshot3](https://github.com/dchase3/ITMD455/blob/master/Lab5/Grading_Files/screenshots/Capture3.PNG)
 
-![Screenshot4](ITMD455/Lab5/Grading_Files/screenshots/Capture4.PNG)
+![Screenshot4](https://github.com/dchase3/ITMD455/blob/master/Lab5/Grading_Files/screenshots/Capture4.PNG)
 
-![Screenshot5](ITMD455/Lab5/Grading_Files/screenshots/Capture5.PNG)
+![Screenshot5](https://github.com/dchase3/ITMD455/blob/master/Lab5/Grading_Files/screenshots/Capture5.PNG)
 
-![Screenshot6](ITMD455/Lab5/Grading_Files/screenshots/Capture6.PNG)
+![Screenshot6](https://github.com/dchase3/ITMD455/blob/master/Lab5/Grading_Files/screenshots/Capture6.PNG)
 
 ## Java Code
 
