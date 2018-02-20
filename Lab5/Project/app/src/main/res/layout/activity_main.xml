@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#000"
-    tools:context="com.example.ssiruuk.itmd455hw5.MainActivity">
+    tools:context="com.example.densi.itmd455hw5.MainActivity">
 
     <ImageView
         android:id="@+id/imageView"
@@ -63,7 +63,8 @@
         android:layout_marginEnd="148dp"
         android:layout_marginStart="148dp"
         android:layout_marginTop="16dp"
-        android:text="Button"
+        android:padding="8dp"
+        android:text="Start Slide Show"
         android:textColor="#000"
         android:background="#d1ffbf00"
         app:layout_constraintEnd_toEndOf="parent"
