@@ -16,6 +16,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+    <service android:name="com.example.densi.itmd455hw6.BoundServer" />
     </application>
 
 </manifest>
