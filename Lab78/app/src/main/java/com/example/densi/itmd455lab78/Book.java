@@ -5,8 +5,20 @@ package com.example.densi.itmd455lab78;
  */
 
 public class Book {
+
     private String bookName;
     private String bookAuthor;
+
+    public Book()
+    {
+
+    }
+    public Book(String name, String author)
+    {
+        super();
+        this.bookName = name;
+        this.bookAuthor = author;
+    }
 
     public String getBookName()
     {
@@ -23,5 +35,9 @@ public class Book {
     public void setBookAuthor(String author)
     {
         bookAuthor = author;
+    }
+    public String toString()
+    {
+        return "Title: " + bookName + "\tAuthor: " + bookAuthor;
     }
 }
